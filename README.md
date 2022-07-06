@@ -15,4 +15,6 @@ From the summary chart, it is quite obvious that while rural customers make up t
 ### Incentivise drivers to work in rural areas:
 - By increasing driver counts in rural areas, there may be a potential increase in rides taken by rural populations. Even accounting for a small company subsidy for rural drivers, this may still turn out to be the most profitable per-capita operation. Monitoring will have to be put in place to see if an increase of drivers leads to an increase of customers. 
 ### Use urban drivers to cover for the peaks of suburban usage
-- 
+- There are two peaks of suburban price increases in late Feb and late April. To capitalize on these temporary price increases, urban drivers can be incentivized via subsidies to work in suburban areas temporarily, generating PyBer extra revenue to overcome the subsidies.
+### Normalize driver income from Rural -> Suburban -> Urban areas
+- Without affecting the PyBer budget, wage increases for urban drivers can be implemented by putting a portion of per-driver revenue of rural and suburban drivers to urban drivers. With even 10% of rural revenue being moved over to urban drivers, urban drivers will see a nearly 25% wage increase, while rural drivers will have a minimal loss of personal revenue. This may be a way to incentivize drivers in big cities to continue working for PyBer.
